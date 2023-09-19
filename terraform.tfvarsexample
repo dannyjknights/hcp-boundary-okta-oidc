@@ -1,0 +1,7 @@
+boundary_api_url                   = "https://xxx.boundary.hashicorp.cloud" // Change this to be the Boundary address shown in HCP
+okta_issuer                        = "https://" // Change this to your Okta URL
+okta_client_id                     = "xxx" // Public identifier for the client that is required for all OAuth flows. Created by Okta
+okta_client_secret                 = "xxx" // Secret key assigned to the auth method given by Okta
+boundary_auth                      = "ampw_xxxxxxxxxx
+login_name                         = "user_name"
+password                           = "somesortofpassword"
